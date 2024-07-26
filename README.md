@@ -1,4 +1,3 @@
 "#ITF WEEK4" 
 
-message = "Hello, ITF-Lab 2024"
-print(message)
+## Teerat Satapornwanit 67070084
